@@ -1,5 +1,3 @@
-# ductal-carcinoma-in-situ-with-microinvasion
-
 # Image fusion of H&E-stained and MPM images
 
 This code is for the image fusion part of paper “A novel method for rapid and accurate diagnosis of ductal carcinoma in situ with microinvasion by fusing H&E-stained images and multiphoton microscopy images”
