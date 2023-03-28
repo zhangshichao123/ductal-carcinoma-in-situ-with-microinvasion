@@ -3,7 +3,7 @@
 This code is for the image fusion part of paper “A novel method for rapid and accurate diagnosis of ductal carcinoma in situ with microinvasion by fusing H&E-stained images and multiphoton microscopy images”
 
 ## Architecture:<br>
-<div align=center><img src="https://github.com/zhangshichao123/ductal-carcinoma-in-situ-with-microinvasion/blob/main/microinvasion/dataset/imgs/Architecture.png" width="740" height="320"/></div><br>
+<div align=center><img src="https://github.com/zhangshichao123/ductal-carcinoma-in-situ-with-microinvasion/blob/main/microinvasion/dataset/imgs/Architecture.png" width="740" height="437"/></div><br>
 
 ## Tips:<br>
 1.	Cell nucleus segmentation can be performed using the Hover-Net model.（https://github.com/vqdang/hover_net）<br>
